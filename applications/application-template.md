@@ -24,9 +24,11 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 Please provide the following:
 
 - If the name of your project is not descriptive, a tag line (one sentence summary).
+
 Tokenised Trade Financing for fast-growing SMEs (Small and Medium Enterprises) globally. 
 
 - A brief description of your project.
+
 In a nutshell, Zapp is a sustainable finance project, focused on reducing severe financial stress in fast-growing SMEs (Small and Medium Enterprises) globally. Our project focuses on developing blockchain based tools which help reduce the over $5 trillion funding gap which exists across SMEs and Mid-cap companies globally, giving a robust IRL blockchain use-case for the largest tangible economic/ employment sector globally (SMEs alone accounting for 90% of businesses and 50% of all jobs globally).
 
 Zapp’s platform allows investors (institutional and ESG focused), to invest into  a new alternative, high yield and sustainable impact asset class made possible by Zapp’s solution.
@@ -35,10 +37,12 @@ This project enables tokenisation of various real world assets including trade f
 
 
 - An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
+
 According to the crypto carbon ratings institute report (FEB 22), Polkadot is the greenest cryptocurrency , highlighting the sustainability focus.
 The largest barrier to crypto adoption as well as IRL usecases for crytpocurrencies and blockchain is financial inclusion. Zapp aims to tackle one of the largest deficits in global financing which is an over $5 trillion dollar funding gap for SMEs and other key companies which power the global economy.This aims to make the businesses more sustainable, reducing extortionate interest rates charged by TradFi organisations, improve production processes while also reducing issues such as forced and child labour. 
 
 - An indication of why your team is interested in creating this project.
+
 our team consists of sustainable financing, fintech and blockchain/ crypto experts with solid experience in the field of trade and finance who can see the potential and need for blockchain based solutions to revolutionise the $37 trillion ESG and $5 trillion Trade financing fields, while bringing IRL crypto adoption and blockchain technology to hundreds of millions of SMEs and Enterpeneurs globally.
 
 
@@ -59,9 +63,16 @@ We expect the teams to already have a solid idea about your project's expected f
 Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
 
 - Where and how does your project fit into the ecosystem?
+
+
 - Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+
+
 - What need(s) does your project meet?
+
+
 - Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem?
+
   - If so, how is your project different?
   - If not, are there similar projects in related ecosystems?
 
@@ -77,6 +88,8 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 - **Contact Name:** Full name of the contact person in your team
 - **Contact Email:** Contact email (e.g. john@duo.com)
 - **Website:**
+
+
 
 ### Legal Structure
 
